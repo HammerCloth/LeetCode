@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/动态规划/动态规划.iml" filepath="$PROJECT_DIR$/动态规划/动态规划.iml" />
       <module fileurl="file://$PROJECT_DIR$/字符串/字符串.iml" filepath="$PROJECT_DIR$/字符串/字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/深度优先搜索/深度优先搜索.iml" filepath="$PROJECT_DIR$/深度优先搜索/深度优先搜索.iml" />
     </modules>
   </component>
 </project>
