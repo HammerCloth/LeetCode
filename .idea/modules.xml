@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/位运算/位运算.iml" filepath="$PROJECT_DIR$/位运算/位运算.iml" />
       <module fileurl="file://$PROJECT_DIR$/动态规划/动态规划.iml" filepath="$PROJECT_DIR$/动态规划/动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/回溯算法/回溯算法.iml" filepath="$PROJECT_DIR$/回溯算法/回溯算法.iml" />
       <module fileurl="file://$PROJECT_DIR$/字符串/字符串.iml" filepath="$PROJECT_DIR$/字符串/字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/栈/栈.iml" filepath="$PROJECT_DIR$/栈/栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/深度优先搜索/深度优先搜索.iml" filepath="$PROJECT_DIR$/深度优先搜索/深度优先搜索.iml" />
     </modules>
   </component>

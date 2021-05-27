@@ -27,3 +27,10 @@ dp[i] = max{dp[上一个可选的元素a]+1,...dp[上一个可选的元素b]+1};
     2. a XOR a = 0
     3. a XOR 0 = a
     4. A XOR B XOR B = A
+
+#### case461 汉明距离
+<p>这里是使用了两个API，也可通过位移来计算。</P>
+
+1. Integer.toBinaryString(x) 可以把x转化为2进制表示的字符串
+
+2. Integer.bitCount(x);直接输出x二进制表示1的个数
