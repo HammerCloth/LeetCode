@@ -12,6 +12,6 @@ public class Case1787 {
 
     }
     public int minChanges(int[] nums, int k) {
-
+        return 0;
     }
 }

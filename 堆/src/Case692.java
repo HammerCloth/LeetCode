@@ -11,6 +11,6 @@ import java.util.List;
  */
 public class Case692 {
     public List<String> topKFrequent(String[] words, int k) {
-
+    return null;
     }
 }
