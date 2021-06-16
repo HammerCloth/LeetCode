@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/二分查找/二分查找.iml" filepath="$PROJECT_DIR$/二分查找/二分查找.iml" />
       <module fileurl="file://$PROJECT_DIR$/位运算/位运算.iml" filepath="$PROJECT_DIR$/位运算/位运算.iml" />
       <module fileurl="file://$PROJECT_DIR$/动态规划/动态规划.iml" filepath="$PROJECT_DIR$/动态规划/动态规划.iml" />
       <module fileurl="file://$PROJECT_DIR$/回溯算法/回溯算法.iml" filepath="$PROJECT_DIR$/回溯算法/回溯算法.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/栈/栈.iml" filepath="$PROJECT_DIR$/栈/栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/深度优先搜索/深度优先搜索.iml" filepath="$PROJECT_DIR$/深度优先搜索/深度优先搜索.iml" />
+      <module fileurl="file://$PROJECT_DIR$/队列/队列.iml" filepath="$PROJECT_DIR$/队列/队列.iml" />
     </modules>
   </component>
 </project>
