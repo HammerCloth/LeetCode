@@ -9,4 +9,16 @@
  * @version:v1.0
  */
 public class ZCY404 {
+    public static void main(String[] args) {
+        paperFloding(7,false);
+    }
+
+    public static void paperFloding(int n,boolean flag){
+        if (n<=0){
+            return;
+        }
+        paperFloding(n-1,true);
+        System.out.println(flag?"上":"下");
+        paperFloding(n-1,false);
+    }
 }
