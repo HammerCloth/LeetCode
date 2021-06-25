@@ -10,24 +10,7 @@ import java.util.Stack;
  */
 public class ZCY405 {
     public static void main(String[] args) {
-        Node node = new Node(0);
-        node.leftNode = new Node(1);
-        node.rightNode = new Node(2);
-        node.leftNode.leftNode = new Node(3);
-        node.leftNode.rightNode = new Node(4);
-        node.rightNode.leftNode = new Node(5);
-        preOrderRecur(node);
-        System.out.println();
-        preOrder(node);
-        System.out.println();
-        inOrderRecur(node);
-        System.out.println();
-        inOrder(node);
-        System.out.println();
-        posOrderRecur(node);
-        System.out.println();
-        posOrder(node);
-        System.out.println();
+
     }
 
     public static void preOrderRecur(Node head) {
@@ -95,24 +78,24 @@ public class ZCY405 {
     }
 
     public static void posOrder(Node head) {
-        if (head==null){
+        if (head == null) {
             return;
         }
         Stack<Node> stack = new Stack<>();
         Stack<Node> printStack = new Stack<>();
         stack.push(head);
-        while(!stack.isEmpty()){
+        while (!stack.isEmpty()) {
             Node temp = stack.pop();
             printStack.push(temp);
-            if (temp.leftNode!=null){
+            if (temp.leftNode != null) {
                 stack.push(temp.leftNode);
             }
-            if (temp.rightNode!=null){
+            if (temp.rightNode != null) {
                 stack.push(temp.rightNode);
             }
         }
-        while(!printStack.isEmpty()){
-            System.out.print(printStack.pop().value+"\t");
+        while (!printStack.isEmpty()) {
+            System.out.print(printStack.pop().value + "\t");
         }
     }
 }
