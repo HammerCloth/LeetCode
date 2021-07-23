@@ -15,8 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/栈/栈.iml" filepath="$PROJECT_DIR$/栈/栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/树/树.iml" filepath="$PROJECT_DIR$/树/树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/比特图/比特图.iml" filepath="$PROJECT_DIR$/比特图/比特图.iml" />
       <module fileurl="file://$PROJECT_DIR$/深度优先搜索/深度优先搜索.iml" filepath="$PROJECT_DIR$/深度优先搜索/深度优先搜索.iml" />
       <module fileurl="file://$PROJECT_DIR$/队列/队列.iml" filepath="$PROJECT_DIR$/队列/队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合/集合.iml" filepath="$PROJECT_DIR$/集合/集合.iml" />
     </modules>
   </component>
 </project>
