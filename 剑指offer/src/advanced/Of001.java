@@ -1,3 +1,5 @@
+package advanced;
+
 /**
  * 整数除法
  *
