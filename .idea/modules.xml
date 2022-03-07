@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YXC/YXC.iml" filepath="$PROJECT_DIR$/YXC/YXC.iml" />
       <module fileurl="file://$PROJECT_DIR$/二分查找/二分查找.iml" filepath="$PROJECT_DIR$/二分查找/二分查找.iml" />
       <module fileurl="file://$PROJECT_DIR$/位运算/位运算.iml" filepath="$PROJECT_DIR$/位运算/位运算.iml" />
       <module fileurl="file://$PROJECT_DIR$/前缀树/前缀树.iml" filepath="$PROJECT_DIR$/前缀树/前缀树.iml" />
