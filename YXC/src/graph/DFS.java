@@ -40,9 +40,12 @@ public class DFS {
     }
 
     public static int dfs(HashMap<Integer, HashMap<Integer, Integer>> graph, int start, boolean[] flag) {
+        //标记访问
         flag[start] = true;
         int reuslt = 1;
+        //对所有可能有的结果进行遍历
         for (int key : graph.get(start).keySet()) {
+            //如果这个节点没有访问过，则从这个节点开始进行dfs
             if (!flag[key]) reuslt += dfs(graph, key, flag);
         }
         return reuslt;
