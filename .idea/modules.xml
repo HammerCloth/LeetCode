@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/287周赛/287周赛.iml" filepath="$PROJECT_DIR$/287周赛/287周赛.iml" />
+      <module fileurl="file://$PROJECT_DIR$/75双周赛/75双周赛.iml" filepath="$PROJECT_DIR$/75双周赛/75双周赛.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQ音乐笔试/QQ音乐笔试.iml" filepath="$PROJECT_DIR$/QQ音乐笔试/QQ音乐笔试.iml" />
       <module fileurl="file://$PROJECT_DIR$/YXC/YXC.iml" filepath="$PROJECT_DIR$/YXC/YXC.iml" />
       <module fileurl="file://$PROJECT_DIR$/二分查找/二分查找.iml" filepath="$PROJECT_DIR$/二分查找/二分查找.iml" />
       <module fileurl="file://$PROJECT_DIR$/京东笔试/京东笔试.iml" filepath="$PROJECT_DIR$/京东笔试/京东笔试.iml" />
