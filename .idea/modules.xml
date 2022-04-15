@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/287周赛/287周赛.iml" filepath="$PROJECT_DIR$/287周赛/287周赛.iml" />
+      <module fileurl="file://$PROJECT_DIR$/288场周赛/288场周赛.iml" filepath="$PROJECT_DIR$/288场周赛/288场周赛.iml" />
       <module fileurl="file://$PROJECT_DIR$/75双周赛/75双周赛.iml" filepath="$PROJECT_DIR$/75双周赛/75双周赛.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/QQ音乐笔试/QQ音乐笔试.iml" filepath="$PROJECT_DIR$/QQ音乐笔试/QQ音乐笔试.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/图/图.iml" filepath="$PROJECT_DIR$/图/图.iml" />
       <module fileurl="file://$PROJECT_DIR$/堆/堆.iml" filepath="$PROJECT_DIR$/堆/堆.iml" />
       <module fileurl="file://$PROJECT_DIR$/字符串/字符串.iml" filepath="$PROJECT_DIR$/字符串/字符串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/字节青训营/字节青训营.iml" filepath="$PROJECT_DIR$/字节青训营/字节青训营.iml" />
       <module fileurl="file://$PROJECT_DIR$/并查集/并查集.iml" filepath="$PROJECT_DIR$/并查集/并查集.iml" />
       <module fileurl="file://$PROJECT_DIR$/携程笔试/携程笔试.iml" filepath="$PROJECT_DIR$/携程笔试/携程笔试.iml" />
       <module fileurl="file://$PROJECT_DIR$/数学/数学.iml" filepath="$PROJECT_DIR$/数学/数学.iml" />
