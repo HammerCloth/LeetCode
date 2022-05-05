@@ -68,7 +68,6 @@ public class Case852 {
                 }
             }
         }
-
         return false;//不存在负环
     }
 }
